@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("AC-Tool")]
-[assembly: AssemblyDescription("Auto Click Tool welches sich gewünschte Click Sequenz merkt und diese sooft wie gewünscht Wiederholt")]
+[assembly: AssemblyDescription("Auto Click Tool welches sich gewünschte Click Sequenz merkt und diese sooft wie gewünscht wiederholt")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AutoClicker_V1")]
